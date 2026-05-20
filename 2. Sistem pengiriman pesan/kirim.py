@@ -32,4 +32,3 @@ class HashTableAkun:
         self.tabel[indeks] = [username, password, kotak_masuk]
 
         return True
-

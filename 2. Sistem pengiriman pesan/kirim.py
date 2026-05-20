@@ -26,9 +26,6 @@ class HashTableAkun:
                 return False
 
             indeks = (indeks + 1) % self.ukuran_tabel
-
         kotak_masuk = StackPesan()
-
         self.tabel[indeks] = [username, password, kotak_masuk]
-
         return True

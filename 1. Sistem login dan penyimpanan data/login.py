@@ -105,3 +105,4 @@ class SistemLogin:
 sistem = SistemLogin()
 
 sistem.daftar("fufufafa", "saWit43264?")
+

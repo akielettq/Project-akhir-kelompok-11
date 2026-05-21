@@ -29,3 +29,5 @@ class HashTableAkun:
         kotak_masuk = StackPesan()
         self.tabel[indeks] = [username, password, kotak_masuk]
         return True
+
+#ngetest sek

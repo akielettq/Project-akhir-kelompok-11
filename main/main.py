@@ -5,8 +5,6 @@ import time
 # SIMULASI KRIPTOGRAFI DAN JARINGAN AMAN - KELOMPOK 11
 # =======================================================
 
-
-
 # =======================================================
 # 1. STACK & QUEUE
 # Penjelasan: 
